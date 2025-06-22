@@ -1,5 +1,5 @@
 # Olá 👋
-Oi meu nome é Jonathan Nicolas 👍
+Meu nome é Jonathan Nicolas 👍
 ## Status do GitHub
 <p align="center">
   <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Nicolas&bg_color=151515&text_color=9f9f9f">
@@ -8,7 +8,7 @@ Oi meu nome é Jonathan Nicolas 👍
 
 <br>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
