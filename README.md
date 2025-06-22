@@ -2,8 +2,8 @@
 Oi meu nome é Jonathan Nicolas 👍
 ## Status do GitHub
 <p align="center">
-  <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myancko&bg_color=151515&text_color=9f9f9f">
-  <img height="225em" src="https://github-readme-stats.vercel.app/api/?username=Myancko&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_rank=true">
+  <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Nicolas&bg_color=151515&text_color=9f9f9f">
+  <img height="225em" src="https://github-readme-stats.vercel.app/api/?username=Jonathan-Nicolas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_rank=true">
 </p>
 
 <br>
@@ -20,7 +20,7 @@ Oi meu nome é Jonathan Nicolas 👍
 </div>
 
 <!--
-**Myancko/Myancko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jonathan-Nicolas/Jonathan-Nicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
